@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "970759432368",
+    "firebase_url": "https://blockchain-40f18.firebaseio.com",
+    "project_id": "blockchain-40f18",
+    "storage_bucket": "blockchain-40f18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970759432368:android:02d0164c1166baa0",
+        "android_client_info": {
+          "package_name": "se.xlntech.blockchain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970759432368-vglihdo34gv4rg3su049guiu9eslq4ei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.xlntech.blockchain",
+            "certificate_hash": "66c4ecf05f776227f2e290bd173db322b10657ed"
+          }
+        },
+        {
+          "client_id": "970759432368-2o21ek3ernb9qncm566dk5n55fdi0qpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIZT_9eItNaTj27l1ZXfhmERvvrYvCm-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970759432368-2o21ek3ernb9qncm566dk5n55fdi0qpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
